@@ -1,0 +1,37 @@
+{
+  "functions": {
+    "docUrl": "",
+    "data": [
+      {
+        "title": "",
+        "desc": ""
+      }
+    ]
+  },
+  "activities": {
+    "docUrl": "",
+    "data": [
+      {
+        "title": "",
+        "desc": ""
+      }
+    ]
+  },
+  "workflow": {
+    "diagramUrl": "",
+    "docUrl": "",
+    "tools": [
+      {
+        "title": "",
+        "desc": ""
+      }
+    ]
+  },
+  "risks": [
+    {
+      "title": "",
+      "mit": "",
+      "plan": ""
+    }
+  ]
+}

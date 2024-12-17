@@ -1,0 +1,99 @@
+{
+  "functions": {
+    "docUrl": "https://docs.google.com/document/d/1doaEYmFHSjKfN69kqj-EGoPQO1uL-_r2czio259Bs8A",
+    "data": [
+      {
+        "title": "Director de Tecnología 👨‍💼",
+        "desc": "El rol del CIO es esencial para el éxito y la eficiencia del departamento de desarrollo de una organización. Su principal objetivo es supervisar y dirigir todas las actividades relacionadas con el desarrollo de software, asegurando que se cumplan los objetivos y plazos establecidos"
+      },
+      {
+        "title": "Ingeniero Devops 🤖",
+        "desc": "El objetivo de este cargo es segurar la integración continua y la entrega continua (CI/CD) de los proyectos, mejorando la colaboración entre los equipos de desarrollo y operaciones."
+      },
+      {
+        "title": "Ingeniero QA 🧪",
+        "desc": "El objetivo principal de este rol es garantizar la calidad del software desarrollado, desempeñando un papel crucial en la identificación y corrección de posibles problemas."
+      },
+      {
+        "title": "Desarrollador Frontend 💻",
+        "desc": "El titular de la posición tiene como objetivo principal la creación y el mantenimiento de la interfaz de usuario en los proyectos de la empresa. Para lograr este propósito, desempeña diversas funciones centradas en el diseño y la experiencia del usuario."
+      },
+      {
+        "title": "Desarrollador Backend 🌐",
+        "desc": "El objetivo principal de este rol es la creación y el mantenimiento de la lógica del servidor y la base de datos de los proyectos de la empresa. Las funciones asociadas con esta posición abarcan desde el desarrollo de la lógica del servidor hasta la optimización y gestión eficiente de la base de datos."
+      }
+    ]
+  },
+  "activities": {
+    "docUrl": "https://docs.google.com/document/d/11ruI0RuBSXnAXK1HIpL5cP9sCzxgT4fRDeWmEFkkyXg",
+    "data": [
+      {
+        "title": "Desarrollo de software eficiente y de alta calidad 💻",
+        "desc": "El desarrollo de software eficiente y de alta calidad abarca la creación de aplicaciones robustas, escalables y alineadas con las necesidades del cliente y los estándares tecnológicos actuales. Implica una colaboración constante entre desarrolladores frontend y backend para garantizar que los componentes del sistema funcionen de forma integrada y óptima."
+      },
+      {
+        "title": "Control de calidad y pruebas de software 🧪",
+        "desc": "El control de calidad y las pruebas de software (QA) garantizan que las aplicaciones cumplan con los requisitos funcionales, no funcionales y de rendimiento, identificando errores y asegurando la entrega de productos robustos y libres de defectos."
+      },
+      {
+        "title": "Gestión de despliegues continuos y automatización 🤖",
+        "desc": "La gestión de despliegues continuos y la automatización permite que el software se despliegue de manera rápida, eficiente y libre de errores en los entornos de producción, asegurando la integración continua y la entrega continua de nuevas versiones del producto."
+      },
+      {
+        "title": "Documentación de procesos y sistemas 📝",
+        "desc": "La documentación de procesos y sistemas es una actividad clave para garantizar que todos los procedimientos y flujos de trabajo estén claramente definidos y sean fácilmente accesibles. Esta documentación facilita la comprensión y el mantenimiento de los sistemas y procesos, asegurando la continuidad operativa y la calidad a lo largo del tiempo."
+      },
+      {
+        "title": "Planificación y asignación de tareas mediante metodologías ágiles 🤯",
+        "desc": "La planificación y asignación de tareas mediante metodologías ágiles permite organizar, priorizar y distribuir las actividades dentro del equipo de desarrollo de forma eficiente, garantizando entregas frecuentes y de alta calidad. Se enfoca en la flexibilidad, la colaboración continua y la mejora constante a lo largo de cada ciclo de trabajo."
+      },
+      {
+        "title": "Mantenimiento y actualización del software y sistemas ⛏️",
+        "desc": "El mantenimiento y actualización del software y sistemas implica asegurar que las aplicaciones y la infraestructura tecnológica estén funcionando correctamente, aplicando mejoras, nuevas versiones y parches de seguridad para optimizar su desempeño, resolver errores y mantener la compatibilidad con los nuevos estándares y tecnologías."
+      }
+    ]
+  },
+  "workflow": {
+    "diagramUrl": "https://app.diagrams.net/#G1dWRqC-vQliStBeUQWs75YTFIWMI6NA78#%7B%22pageId%22%3A%223mlgmP_Rw_qM0hlIf5N_%22%7D",
+    "docUrl": "https://docs.google.com/document/d/1VL8E7Ml9vLujbOJ5HBmbVNhvSjZpOdQjD0GrJKApueg",
+    "tools": [
+      {
+        "title": "VSCode",
+        "desc": "Visual Studio Code es un editor de código gratuito, de código abierto y altamente personalizable. VSCode es conocido por su rendimiento, interfaz de usuario intuitiva y una amplia variedad de extensiones disponibles en el mercado. Es compatible con numerosos lenguajes de programación y ofrece herramientas integradas para la depuración, control de versiones y otras tareas de desarrollo."
+      },
+      {
+        "title": "NextJS",
+        "desc": "Next.js es un marco de desarrollo web de React de código abierto que facilita la creación de aplicaciones web modernas y eficientes. Next.js simplifica el desarrollo al integrar React con características como la representación del lado del servidor y la generación de sitios estáticos. También ofrece una amplia gama de herramientas y bibliotecas para acelerar el proceso de desarrollo."
+      },
+      {
+        "title": "PostgreSQL",
+        "desc": "PostgreSQL es un sistema de gestión de bases de datos relacional (RDBMS) de código abierto que se destaca por su robustez, escalabilidad y capacidad de personalización. Es compatible con numerosas características avanzadas, como la integridad transaccional, la replicación y la indexación avanzada, lo que lo convierte en una opción popular para aplicaciones empresariales y de misión crítica."
+      },
+      {
+        "title": "Git/GitHub",
+        "desc": "Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear y gestionar cambios en el código fuente de sus proyectos. GitHub es una plataforma de desarrollo colaborativo que utiliza Git como sistema de control de versiones. Permite a los desarrolladores alojar, revisar y colaborar en proyectos de software de forma eficiente."
+      },
+      {
+        "title": "Jira",
+        "desc": "Jira es una herramienta de gestión de proyectos y seguimiento de incidencias que permite a los equipos de desarrollo planificar, rastrear y gestionar el progreso de sus proyectos de software. Jira ofrece funciones avanzadas para la creación de tareas, la asignación de recursos, la programación de entregas y la generación de informes, facilitando la colaboración y la comunicación entre los miembros del equipo."
+      }
+    ]
+  },
+  "risks": [
+    {
+      "title": "Falta de comunicación y mal manejo de la información",
+      "mit": "Implementar canales de comunicación claros y eficientes, fomentar un ambiente de trabajo abierto y respetuoso, y brindar capacitación en habilidades de comunicación y trabajo en equipo.",
+      "plan": "Revisión y mejora de los canales de comunicación existentes, implementación de sesiones regulares de feedback y resolución de conflictos, así como capacitación adicional en habilidades de comunicación."
+    },
+    {
+      "title": "Retrasos en las entregas y fallas en la planificación",
+      "mit": "Implementar metodologías ágiles para una mejor planificación y gestión de tareas, realizar seguimiento constante del progreso (daily stand-ups) y gestionar dependencias con anticipación.",
+      "plan": "Realizar una replanificación de tareas y prioridades, asignar recursos adicionales cuando sea necesario, y ejecutar reuniones de revisión para identificar y desbloquear obstáculos rápidamente."
+    },
+    {
+      "title": "Malas prácticas en el desarrollo y problemas de calidad del software",
+      "mit": "Adoptar estándares de desarrollo y código limpio, implementar revisiones de código (code reviews), pruebas automatizadas, y seguir buenas prácticas como la documentación adecuada y las normas de seguridad.",
+      "plan": "Realizar auditorías del código regularmente, capacitaciones en mejores prácticas de desarrollo (software craftsmanship), y usar herramientas de análisis estático y dinámico del código."
+    }
+  ]
+}
