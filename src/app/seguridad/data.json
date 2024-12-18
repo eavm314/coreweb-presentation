@@ -1,37 +1,79 @@
 {
   "functions": {
-    "docUrl": "",
+    "docUrl": "https://docs.google.com/document/d/1hbR2dplBP7TF2ZxaWHT6Xq22CdfovFo76t4PmutPa3c",
     "data": [
       {
-        "title": "",
-        "desc": ""
+        "title": "Director de Ciberseguridad 👨‍💼",
+        "desc": "Diseñar, implementar y supervisar la estrategia global de ciberseguridad de la organización, garantizando la protección de los activos digitales, el cumplimiento normativo y la mitigación de riesgos asociados a amenazas cibernéticas."
+      },
+      {
+        "title": "Especialista en Ciberseguridad 👨‍💻",
+        "desc": "Garantizar la protección de la información y los activos digitales de la organización mediante la implementación de políticas, controles y medidas de ciberseguridad alineadas a los estándares internacionales y normativas vigentes."
+      },
+      {
+        "title": "Analista de Seguridad Informatica 👨",
+        "desc": "Realizar el monitoreo constante, análisis y ejecución de acciones para prevenir, detectar y responder a amenazas de seguridad informática que puedan afectar la integridad, confidencialidad y disponibilidad de los activos digitales de la organización."
+      },
+      {
+        "title": "Auditor de Ciberseguridad 👨‍💻",
+        "desc": "Evaluar y verificar la efectividad de los controles de ciberseguridad, políticas, procesos y tecnologías implementadas, asegurando el cumplimiento normativo y la reducción de riesgos en la organización."
       }
     ]
   },
   "activities": {
-    "docUrl": "",
+    "docUrl": "https://docs.google.com/document/d/1EI-uvnUnquPPh_keTSkxqeFHb6PxfL-6XQ_ZZ8-6Dxw",
     "data": [
       {
-        "title": "",
-        "desc": ""
+        "title": "Implementación del Plan Anual de Seguridad",
+        "desc": "Desarrollar y ejecutar un plan integral que contemple las políticas, controles y procedimientos necesarios para proteger la infraestructura y datos críticos de CoreWeb."
+      },
+      {
+        "title": "Monitoreo y Respuesta ante Incidentes de Seguridad",
+        "desc": "Supervisar en tiempo real la infraestructura tecnológica para identificar y responder de manera proactiva a posibles amenazas y vulnerabilidades."
+      },
+      {
+        "title": "Evaluación y Auditoría de Seguridad",
+        "desc": "Realizar auditorías y pruebas periódicas de vulnerabilidad y penetración para identificar y corregir debilidades en los sistemas de CoreWeb."
+      },
+      {
+        "title": "Capacitación y Concientización en Seguridad",
+        "desc": "Desarrollar programas de formación y campañas para sensibilizar al personal sobre la importancia de la ciberseguridad y las buenas prácticas en el manejo de la información."
       }
     ]
   },
   "workflow": {
-    "diagramUrl": "",
-    "docUrl": "",
+    "diagramUrl": "https://app.diagrams.net/#G1dWRqC-vQliStBeUQWs75YTFIWMI6NA78#%7B%22pageId%22%3A%22VYbol6GGHIronK_iFw7s%22%7D",
+    "docUrl": "https://docs.google.com/document/d/1Ezh0OtQrjTCOCI1PDoO0Fu7v1V52yPAK_dZrQtE8Vao",
     "tools": [
       {
-        "title": "",
-        "desc": ""
+        "title": "SIEM - Splunk 📊",
+        "desc": "Splunk es una herramienta líder en gestión de eventos e información de seguridad (SIEM) que permite monitorear, analizar y responder a amenazas en tiempo real."
+      },
+      {
+        "title": "Metasploit 🛡️",
+        "desc": "Metasploit es una herramienta especializada en pruebas de penetración, que permite simular ataques reales para evaluar la seguridad de sistemas."
+      },
+      {
+        "title": "TheHive 🐝",
+        "desc": "TheHive es una herramienta de código abierto diseñada para la gestión colaborativa de incidentes de seguridad."
       }
     ]
   },
   "risks": [
     {
-      "title": "",
-      "mit": "",
-      "plan": ""
+      "title": "Ataques de Phishing",
+      "mit": "Capacitar al personal en la identificación de correos fraudulentos y reportes inmediatos.",
+      "plan": "Realizar un bloqueo inmediato del correo o enlace malicioso y restablecer contraseñas afectadas."
+    },
+    {
+      "title": "Acceso No Autorizado",
+      "mit": "Monitorizar y registrar intentos de acceso no autorizados con herramientas SIEM.",
+      "plan": "Bloquear los accesos comprometidos, reforzar credenciales y analizar registros de auditoría."
+    },
+    {
+      "title": "Pérdida de Datos Críticos",
+      "mit": "Utilizar soluciones de almacenamiento seguras en la nube con cifrado (AWS S3, Azure Backup).",
+      "plan": "Recuperar la información desde los respaldos más recientes y validar la integridad de los datos."
     }
   ]
 }
