@@ -1,37 +1,75 @@
 {
   "functions": {
-    "docUrl": "",
+    "docUrl": "https://docs.google.com/document/d/1QMJfvQbZfCgkpThsOZItV-OP__V6OgRLuTOUjjMHstQ/edit?usp=drive_link",
     "data": [
       {
-        "title": "",
-        "desc": ""
+        "title": "CEO (Chief Executive Officer)",
+        "desc": "El CEO es responsable de la dirección general de CoreWeb. Su principal objetivo es liderar la organización para lograr los objetivos estratégicos, maximizar el rendimiento de la empresa, asegurar la sostenibilidad financiera y representar a la compañía ante los stakeholders."
       }
     ]
   },
   "activities": {
-    "docUrl": "",
+    "docUrl": "https://docs.google.com/document/d/1Ic6s-Vhi1ddHs0jHEc4GWPnLQhSlfLOAMOKYx8X8Zp4/edit?usp=drive_link",
     "data": [
       {
-        "title": "",
-        "desc": ""
+        "title": "Elaboración de políticas de seguridad",
+        "desc": "Las políticas de seguridad informática son directrices organizacionales y técnicas para proteger los sistemas y la información dentro de la empresa."
+      },
+      {
+        "title": "Desarrollar plan de contingencia",
+        "desc": "El plan de contingencia proporciona directrices detalladas para gestionar emergencias y proteger la continuidad operativa ante incidentes imprevistos."
+      },
+      {
+        "title": "Construcción de un manual OWASP",
+        "desc": "El manual OWASP guiará al equipo de desarrollo sobre las mejores prácticas de seguridad para aplicaciones web, asegurando que las vulnerabilidades sean minimizadas."
+      },
+      {
+        "title": "Programación de presupuestos",
+        "desc": "La asignación de recursos financieros se destinará a la implementación de políticas y medidas de seguridad en todos los niveles de la empresa."
+      },
+      {
+        "title": "Elaboración de cronogramas de auditorías",
+        "desc": "La planificación y ejecución de auditorías de seguridad permitirá verificar el cumplimiento de las políticas y detectar posibles vulnerabilidades."
+      },
+      {
+        "title": "Elaborar procedimientos para control de Malware y virus informáticos",
+        "desc": "Procedimientos que permiten prevenir, detectar y responder ante amenazas de malware y virus informáticos en la empresa."
       }
     ]
   },
   "workflow": {
-    "diagramUrl": "",
-    "docUrl": "",
+    "diagramUrl": "https://app.diagrams.net/#G1dWRqC-vQliStBeUQWs75YTFIWMI6NA78#%7B%22pageId%22%3A%22xnMHSNQNr2pjp7L03evj%22%7D",
+    "docUrl": "https://docs.google.com/document/d/1YC_BrrPxOQW2A2k6L4EOPoISDYACKbEk-_9CIMk_7kU",
     "tools": [
       {
-        "title": "",
-        "desc": ""
+        "title": "Trello 📝",
+        "desc": "Trello es una herramienta intuitiva basada en tableros Kanban, ideal para la organización visual de tareas. Permite el seguimiento detallado de proyectos y tareas en tiempo real."
+      },
+      {
+        "title": "Power BI / Tableau 🌐",
+        "desc": "Power BI y Tableau son herramientas avanzadas de visualización y análisis de datos que permiten crear paneles e informes interactivos, facilitando la toma de decisiones informadas."
+      },
+      {
+        "title": "Slack ☎️",
+        "desc": "Slack es una plataforma de comunicación que organiza conversaciones en canales por temas o departamentos, facilitando la colaboración en tiempo real."
       }
     ]
   },
   "risks": [
     {
-      "title": "",
-      "mit": "",
-      "plan": ""
+      "title": "Cambios en el Mercado",
+      "mit": "Realizar estudios trimestrales de mercado y tendencias. Diversificar las líneas de servicios ofrecidas para adaptarse a nuevas necesidades. Mantener relaciones constantes con los clientes para identificar demandas emergentes.",
+      "plan": "Redefinir la estrategia de marketing y desarrollar nuevas líneas de servicio para adaptarse a los cambios."
+    },
+    {
+      "title": "Pérdida de Información Crítica",
+      "mit": "Implementar copias de seguridad automáticas con redundancias en sistemas locales y en la nube. Realizar auditorías de datos periódicas y asegurar el cumplimiento de la ISO 27002.",
+      "plan": "Activar los sistemas de recuperación de datos y restaurar respaldos recientes."
+    },
+    {
+      "title": "Problemas de Comunicación Interna",
+      "mit": "Realizar reuniones semanales de seguimiento entre áreas. Desarrollar un plan de comunicación interna estandarizado para garantizar la fluidez de la información.",
+      "plan": "Convocar reuniones urgentes entre equipos clave y reforzar el uso de canales de comunicación."
     }
   ]
 }

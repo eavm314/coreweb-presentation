@@ -35,11 +35,6 @@ const risks = [
     plan: "Migrar operaciones a servidores de respaldo o activar servicios en la nube alternativos."
   },
   {
-    title: "Cambios en el Mercado",
-    mit: "Realizar estudios trimestrales de mercado y tendencias. Diversificar las líneas de servicios ofrecidas para adaptarse a nuevas necesidades. Mantener relaciones constantes con los clientes para identificar demandas emergentes.",
-    plan: "Redefinir la estrategia de marketing y desarrollar nuevas líneas de servicio para adaptarse a los cambios."
-  },
-  {
     title: "Falta de Recursos Humanos Capacitados",
     mit: "Implementar programas de formación y capacitación continua para el equipo.",
     plan: "Contratar personal externo de forma temporal o implementar procesos de subcontratación de servicios."
@@ -53,11 +48,6 @@ const risks = [
     title: "Retrasos en Entregas de Proyectos",
     mit: "Implementar metodologías ágiles (Scrum, Kanban) para mejorar la organización y el control del tiempo.",
     plan: "Reasignar recursos adicionales al proyecto afectado y ajustar las prioridades del equipo."
-  },
-  {
-    title: "Pérdida de Información Crítica",
-    mit: "Implementar copias de seguridad automáticas con redundancias en sistemas locales y en la nube. Realizar auditorías de datos periódicas y asegurar el cumplimiento de la ISO 27002.",
-    plan: "Activar los sistemas de recuperación de datos y restaurar respaldos recientes."
   },
 ];
 
