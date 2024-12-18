@@ -10,7 +10,7 @@ import Risks from "@/components/Risks";
 const data = [
   {
     title: "¿Quiénes Somos?",
-    desc: "Somos CoreWeb, una startup tecnológica dedicada a desarrollar soluciones digitales innovadoras que impulsan el crecimiento y la competitividad de nuestros clientes en el mundo digital. Trabajamos bajo una filosofía de mejora continua, flexibilidad y colaboración, permitiendo que cada proyecto se convierta en una oportunidad para mejorar y aprender junto a nuestros clientes."
+    desc: "Somos CoreWeb, una empresa tecnológica dedicada a desarrollar soluciones digitales innovadoras que impulsan el crecimiento y la competitividad de nuestros clientes en el mundo digital. Trabajamos bajo una filosofía de mejora continua, flexibilidad y colaboración, permitiendo que cada proyecto se convierta en una oportunidad para mejorar y aprender junto a nuestros clientes."
   },
   {
     title: "Misión",
