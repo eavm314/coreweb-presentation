@@ -1,11 +1,10 @@
 import Image from "next/image";
 
 import iniciall from "@/assets/iniciall.jpeg";
-// import workflow from "@/assets/workflow.jpeg";
-// import mapa from "@/assets/mapa.jpeg";
+import workflow from "@/assets/workflow.png";
+import mapa from "@/assets/general.png";
 import InfoCard from "@/components/InfoCard";
 import LinkButton from "@/components/LinkButton";
-import { title } from "process";
 import Risks from "@/components/Risks";
 
 const data = [
@@ -66,12 +65,12 @@ const InicioPage = () => {
           <InfoCard key={index} title={pin.title} desc={pin.desc} />
         ))}
       </div>
-      <div className="flex w-full justify-around my-5">
+      <div className="flex flex-col w-full justify-around my-5 gap-2">
         <div className="flex flex-col">
-          <label className="text-white font-semibold text-2xl text-center"> Flujo de Trabajo</label>
-          <div className="w-full h-fit flex justify-center">
+          <label className="text-white font-semibold text-2xl text-center"> Mapa Jerárquico</label>
+          <div className="w-full flex justify-center">
             <Image
-              src={""}
+              src={mapa}
               alt="Aqui va una imagen chida :D"
               className=" shadow-md rounded-lg"
             />
@@ -79,10 +78,10 @@ const InicioPage = () => {
         </div>
         <div className="flex flex-col">
           <div className="flex flex-col w-full">
-            <label className="text-white font-semibold text-2xl text-center"> Mapa Jerárquico</label>
+            <label className="text-white font-semibold text-2xl text-center"> Flujo de Trabajo</label>
             <div className="h-fit w-full flex justify-center">
               <Image
-                src={""}
+                src={workflow}
                 alt="Aqui va una imagen chida :D"
                 className=" shadow-md rounded-lg"
               />
