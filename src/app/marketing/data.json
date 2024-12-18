@@ -1,37 +1,83 @@
 {
   "functions": {
-    "docUrl": "",
+    "docUrl": "https://docs.google.com/document/d/1wumtw5pkqRLyLECh1NCAm-1MpXLmBd6t9-1S3xwWWbQ",
     "data": [
       {
-        "title": "",
-        "desc": ""
+        "title": "Director de Marketing 👨‍💼",
+        "desc": "Liderar y ejecutar estrategias de marketing que posicionen a CoreWeb como una empresa líder en el mercado, incrementando su visibilidad, captación de clientes y satisfacción a través de soluciones innovadoras y orientadas a resultados."
+      },
+      {
+        "title": "Gestor de Contenido Digital 📝",
+        "desc": "Crear, planificar y gestionar contenido relevante y atractivo que fortalezca la imagen de CoreWeb y genere engagement con la audiencia objetivo."
+      },
+      {
+        "title": "Analista de Datos de Marketing 📊",
+        "desc": "Interpretar datos de marketing para optimizar campañas y estrategias, asegurando un enfoque basado en métricas y resultados."
+      },
+      {
+        "title": "Especialista en Marketing Digital 🌐",
+        "desc": "Implementar y optimizar campañas digitales que impulsen el alcance, tráfico y conversión de la empresa en plataformas digitales."
+      },
+      {
+        "title": "Especialista en Investigación de Mercado 📈",
+        "desc": "Investigar y analizar las tendencias del mercado, el comportamiento del cliente y la competencia, proporcionando información clave para el desarrollo de estrategias de marketing efectivas."
       }
     ]
   },
   "activities": {
-    "docUrl": "",
+    "docUrl": "https://docs.google.com/document/d/1ROkHgke7jmaXhd9UXvaBQeGHdvFu8QxjQ2LUTWN8kgQ",
     "data": [
       {
-        "title": "",
-        "desc": ""
+        "title": "Planificación Estratégica de Marketing",
+        "desc": "Consiste en diseñar, organizar y ejecutar el plan estratégico anual de marketing, alineando objetivos con las metas generales de la empresa."
+      },
+      {
+        "title": "Ejecución de Campañas Publicitarias Digitales",
+        "desc": "Diseñar, implementar y monitorear campañas de marketing digital para aumentar la visibilidad de la empresa y generar leads calificados."
+      },
+      {
+        "title": "Generación de Contenido Optimizado",
+        "desc": "Crear y distribuir contenido atractivo y optimizado para mejorar el posicionamiento orgánico de la marca en buscadores y plataformas digitales."
+      },
+      {
+        "title": "Investigación de Mercado",
+        "desc": "Realizar estudios de mercado que permitan entender las necesidades de los clientes y las acciones de la competencia."
       }
     ]
   },
   "workflow": {
-    "diagramUrl": "",
-    "docUrl": "",
+    "diagramUrl": "https://app.diagrams.net/#G1dWRqC-vQliStBeUQWs75YTFIWMI6NA78#%7B%22pageId%22%3A%22VYbol6GGHIronK_iFw7s%22%7D",
+    "docUrl": "https://docs.google.com/document/d/1ztJgorMSXLsscYyaPsjNTUzmGadOvFF3sw26KH_Zt70",
     "tools": [
       {
-        "title": "",
-        "desc": ""
+        "title": "Canva Pro 🎨",
+        "desc": "Canva es una herramienta popular de diseño gráfico que facilita la creación de contenido visual para redes sociales, blogs y campañas publicitarias."
+      },
+      {
+        "title": "SEMrush 📊",
+        "desc": "SEMrush es una plataforma avanzada para análisis SEO, investigación de palabras clave y auditoría de sitios web."
+      },
+      {
+        "title": "HubSpot 📈",
+        "desc": "HubSpot es una plataforma integral que ofrece herramientas de CRM, automatización de correos y gestión de campañas de marketing."
       }
     ]
   },
   "risks": [
     {
-      "title": "",
-      "mit": "",
-      "plan": ""
+      "title": "Ineficacia en Campañas Publicitarias",
+      "mit": "Realizar pruebas A/B antes del lanzamiento de campañas masivas. Implementar métricas clave (KPIs) como ROI, CTR y tasa de conversión para evaluar el rendimiento.",
+      "plan": "Rediseñar las campañas fallidas utilizando datos recopilados y ajustar la segmentación."
+    },
+    {
+      "title": "Saturación de Publicidad Digital",
+      "mit": "Diversificar los canales de comunicación (redes sociales, email marketing, blogs). Crear campañas no intrusivas enfocadas en contenido de valor.",
+      "plan": "Pausar campañas temporales y priorizar contenidos de valor para reducir la fatiga publicitaria."
+    },
+    {
+      "title": "Problemas con Plataformas Digitales",
+      "mit": "Contar con alternativas de plataformas (por ejemplo, si falla Google Ads, utilizar Bing Ads).",
+      "plan": "Migrar a plataformas alternativas o realizar campañas manuales de contingencia si es necesario."
     }
   ]
 }
