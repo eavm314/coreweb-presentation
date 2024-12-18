@@ -67,7 +67,7 @@ const InicioPage = () => {
       </div>
       <div className="flex flex-col w-full justify-around my-5 gap-2">
         <div className="flex flex-col">
-          <label className="text-white font-semibold text-2xl text-center"> Mapa Jerárquico</label>
+          <label className="text-white font-semibold text-2xl text-center my-4"> Mapa Jerárquico</label>
           <div className="w-full flex justify-center">
             <Image
               src={mapa}
@@ -78,7 +78,7 @@ const InicioPage = () => {
         </div>
         <div className="flex flex-col">
           <div className="flex flex-col w-full">
-            <label className="text-white font-semibold text-2xl text-center"> Flujo de Trabajo</label>
+            <label className="text-white font-semibold text-2xl text-center my-4"> Flujo de Trabajo</label>
             <div className="h-fit w-full flex justify-center">
               <Image
                 src={workflow}
