@@ -4,7 +4,7 @@ import Activities from "@/components/Activities";
 import WorkFlow from "@/components/WorkFlow";
 import json from "./data.json";
 import Risks from "@/components/Risks";
-import iniciall from "@/assets/iniciall.jpeg";
+import iniciall from "@/assets/marketing.jpg";
 
 const MarketingPage = () => {
     return (

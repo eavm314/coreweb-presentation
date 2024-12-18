@@ -11,8 +11,8 @@ function Risks({ data }: { data: any[] }) {
             className="border-white border p-4 rounded-2xl cursor-pointer"
           >
             <h3 className="mt-2 text-xl text-white font-medium text-center">{pin.title}</h3>
-            <p className="text-white text-xs m-4 font-light"><strong>Mitigación:</strong><br /> {pin.mit}</p>
-            <p className="text-white text-xs m-4 font-light"><strong>Plan de Contingencia:</strong><br /> {pin.plan}</p>
+            <p className="text-white text-sm m-4 font-light"><strong>Mitigación:</strong><br /> {pin.mit}</p>
+            <p className="text-white text-sm m-4 font-light"><strong>Plan de Contingencia:</strong><br /> {pin.plan}</p>
           </div>
         ))}
       </div>

@@ -58,23 +58,23 @@
     "docUrl": "https://docs.google.com/document/d/1VL8E7Ml9vLujbOJ5HBmbVNhvSjZpOdQjD0GrJKApueg",
     "tools": [
       {
-        "title": "VSCode",
+        "title": "VSCode 💻",
         "desc": "Visual Studio Code es un editor de código gratuito, de código abierto y altamente personalizable. VSCode es conocido por su rendimiento, interfaz de usuario intuitiva y una amplia variedad de extensiones disponibles en el mercado. Es compatible con numerosos lenguajes de programación y ofrece herramientas integradas para la depuración, control de versiones y otras tareas de desarrollo."
       },
       {
-        "title": "NextJS",
+        "title": "NextJS 🚀",
         "desc": "Next.js es un marco de desarrollo web de React de código abierto que facilita la creación de aplicaciones web modernas y eficientes. Next.js simplifica el desarrollo al integrar React con características como la representación del lado del servidor y la generación de sitios estáticos. También ofrece una amplia gama de herramientas y bibliotecas para acelerar el proceso de desarrollo."
       },
       {
-        "title": "PostgreSQL",
+        "title": "PostgreSQL 🐘",
         "desc": "PostgreSQL es un sistema de gestión de bases de datos relacional (RDBMS) de código abierto que se destaca por su robustez, escalabilidad y capacidad de personalización. Es compatible con numerosas características avanzadas, como la integridad transaccional, la replicación y la indexación avanzada, lo que lo convierte en una opción popular para aplicaciones empresariales y de misión crítica."
       },
       {
-        "title": "Git/GitHub",
+        "title": "Git/GitHub 🐙",
         "desc": "Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear y gestionar cambios en el código fuente de sus proyectos. GitHub es una plataforma de desarrollo colaborativo que utiliza Git como sistema de control de versiones. Permite a los desarrolladores alojar, revisar y colaborar en proyectos de software de forma eficiente."
       },
       {
-        "title": "Jira",
+        "title": "Jira 📈",
         "desc": "Jira es una herramienta de gestión de proyectos y seguimiento de incidencias que permite a los equipos de desarrollo planificar, rastrear y gestionar el progreso de sus proyectos de software. Jira ofrece funciones avanzadas para la creación de tareas, la asignación de recursos, la programación de entregas y la generación de informes, facilitando la colaboración y la comunicación entre los miembros del equipo."
       }
     ]
